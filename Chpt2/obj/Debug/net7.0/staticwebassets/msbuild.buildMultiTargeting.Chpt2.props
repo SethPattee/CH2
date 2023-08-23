@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chpt2.props" />
+</Project>
